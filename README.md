@@ -43,7 +43,7 @@
 
   <div align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=IRMuhammadjon&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IRMuhammadjon)](https://github.com/IRMuhammadjon/github-readme-activity-graph)
   </div>
 
 
