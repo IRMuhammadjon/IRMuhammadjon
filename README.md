@@ -19,7 +19,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning .NET , DevOps and a lot more tech stuff.
-- 📫 &nbsp; Reach me at: rahmatullayevmuhammadjon042.com
+- 📫 &nbsp; Reach me at: rahmatullayevmuhammadjon042@gmail.com
 
 
 <h1>🛠 Me Stack</h1>
