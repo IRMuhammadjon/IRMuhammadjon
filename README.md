@@ -41,10 +41,7 @@
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-  <div align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IRMuhammadjon)](https://github.com/IRMuhammadjon/github-readme-activity-graph)
-  </div>
+
 
 
 [![](https://komarev.com/ghpvc/?username=IRMuhammadjon&color=orange&label=Profile%20Views)](https://github.com/IRMuhammadjon/IRMuhammadjon)
