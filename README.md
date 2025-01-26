@@ -26,7 +26,7 @@
 
 - 💻 &nbsp; `.c` | `.cpp` | `.cs` | `.py` | `.sh` | `.yml` | `.html` | `.css` | `.js`
 - 🌐 &nbsp; .NET 8/6/5 | MVC | Blazor | WebApi | Microservice
-- 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
+- 🕸 &nbsp; Blazor | Bootstrap | HTML5 | CSS
 - 🛢 &nbsp; SqlServer | PostgreSql
 - ⚙️ &nbsp; Git | Bash | Docker | docker-compose | Github Actions
 
